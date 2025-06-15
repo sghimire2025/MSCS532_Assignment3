@@ -36,8 +36,12 @@ This will:
 ## Test Cases
 
 The following datasets are tested:
-- `Large Random (1000 elems)`
-- `Large Random (2000 elems)`
+- `Repeated elements - 24`
+- `Empty array - 0`
+- `Sorted array - 100`
+- `Reversed array - 100`
+- `Large Random Array - 10000`
+
 
 ---
 
