@@ -1,9 +1,13 @@
 # MSCS532 Assignment 3
+## Author
+- Suresh Ghimire
+- Email:[sghimire38288@ucumberlands.edu]
+
 
 ##  Contents
 -  Part 1: Randomized Quicksort Analysis
 -  Part 2: Hash Table with Chaining
-- 📊 Performance Analysis
+-  Performance Analysis
     
 ---
 
@@ -58,7 +62,6 @@ This part of the assignment implements a **Hash Table** using **Chaining** to re
 - `insert(key, value)`
 - `search(key)`
 - `delete(key)`
-- `load_factor()` — computes and returns the current load factor
 - **Dynamic resizing** is triggered when the load factor exceeds **0.75**, doubling the table size.
 
 ###  Sample Output
